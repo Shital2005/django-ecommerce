@@ -65,19 +65,19 @@ Create a .env file in the root directory (d:\django-ecommerce\.env) with the fol
 
 8. Run database migrations
 
-python manage.py makemigrations
-
-python manage.py migrate
+    python manage.py makemigrations
+    
+    python manage.py migrate
 
 
 9. Create a superuser (admin account)
 
-  python manage.py createsuperuser
+      python manage.py createsuperuser
 
 
 11. Run the development server
 
-  python manage.py runserver
+    python manage.py runserver
 
 12. Access the application
 
