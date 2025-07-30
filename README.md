@@ -34,12 +34,12 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-
-1.Prerequisites
-
-   Python 3.8+ installed
-
-   Git installed (if you want version control)
+  
+  1.Prerequisites
+  
+     Python 3.8+ installed
+  
+     Git installed (if you want version control)
 
 
 2. Navigate to the project directory
