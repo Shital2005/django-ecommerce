@@ -53,11 +53,11 @@ To get a local copy up and running follow these simple example steps.
 6. Create environment variables file
 Create a .env file in the root directory (d:\django-ecommerce\.env) with the following content:
 
-DJANGO_SECRET_KEY=your-secret-key-here
-
-DEBUG=True
-
-ALLOWED_HOSTS=localhost,127.0.0.1
+    DJANGO_SECRET_KEY=your-secret-key-here
+    
+    DEBUG=True
+    
+    ALLOWED_HOSTS=localhost,127.0.0.1
 
 
 
@@ -72,19 +72,19 @@ python manage.py migrate
 
 9. Create a superuser (admin account)
 
-python manage.py createsuperuser
+  python manage.py createsuperuser
 
 
 11. Run the development server
 
-python manage.py runserver
+  python manage.py runserver
 
 12. Access the application
 
-
-Main site: http://127.0.0.1:8000/
-
-Admin panel: http://127.0.0.1:8000/admin/
+    
+    Main site: http://127.0.0.1:8000/
+    
+    Admin panel: http://127.0.0.1:8000/admin/
 
 
 <!-- CONTRIBUTING -->
