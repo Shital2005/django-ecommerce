@@ -12,7 +12,8 @@
 A full-stack e-commerce app with product categories, shopping cart management, and checkout functionality.
 Includes features to add products, update the cart, and manage orders from a simple homepage.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+<img width="1270" height="1151" alt="screenshot" src="https://github.com/user-attachments/assets/84d67aec-5355-4c5e-a6e8-2d573ffbb969" />
 
 
 
