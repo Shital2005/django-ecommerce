@@ -37,9 +37,9 @@ To get a local copy up and running follow these simple example steps.
 
 1.Prerequisites
 
-Python 3.8+ installed
+   Python 3.8+ installed
 
-Git installed (if you want version control)
+   Git installed (if you want version control)
 
 
 2. Navigate to the project directory
@@ -54,8 +54,11 @@ Git installed (if you want version control)
 Create a .env file in the root directory (d:\django-ecommerce\.env) with the following content:
 
 DJANGO_SECRET_KEY=your-secret-key-here
+
 DEBUG=True
+
 ALLOWED_HOSTS=localhost,127.0.0.1
+
 
 
 7. Navigate to the Django project directory
@@ -63,6 +66,7 @@ ALLOWED_HOSTS=localhost,127.0.0.1
 8. Run database migrations
 
 python manage.py makemigrations
+
 python manage.py migrate
 
 
@@ -79,6 +83,7 @@ python manage.py runserver
 
 
 Main site: http://127.0.0.1:8000/
+
 Admin panel: http://127.0.0.1:8000/admin/
 
 
