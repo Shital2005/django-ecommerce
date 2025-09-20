@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">Django Ecommerce Project</h3>
+  <h3 align="center">Django E-commerce Project</h3>
   <p align="center">A Django project from Codemy.com on Django Wednesdays.</p>
 </div>
 
